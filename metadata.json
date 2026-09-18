@@ -1,0 +1,247 @@
+{
+  "target": "PUNT_GLOBAL",
+  "features": [
+    "ESTU_GENERO",
+    "ESTU_TIENEETNIA",
+    "ESTU_DEPTO_RESIDE",
+    "FAMI_ESTRATOVIVIENDA",
+    "FAMI_PERSONASHOGAR",
+    "FAMI_CUARTOSHOGAR",
+    "FAMI_EDUCACIONPADRE",
+    "FAMI_EDUCACIONMADRE",
+    "FAMI_TRABAJOLABORPADRE",
+    "FAMI_TRABAJOLABORMADRE",
+    "FAMI_TIENEINTERNET",
+    "FAMI_TIENECOMPUTADOR",
+    "FAMI_TIENELAVADORA",
+    "FAMI_TIENEAUTOMOVIL",
+    "FAMI_TIENEMOTOCICLETA",
+    "FAMI_TIENECONSOLAVIDEOJUEGOS",
+    "FAMI_NUMLIBROS",
+    "ESTU_DEDICACIONLECTURADIARIA",
+    "ESTU_DEDICACIONINTERNET",
+    "ESTU_HORASSEMANATRABAJA",
+    "COLE_NATURALEZA",
+    "COLE_CALENDARIO",
+    "COLE_BILINGUE",
+    "COLE_CARACTER",
+    "COLE_AREA_UBICACION",
+    "COLE_JORNADA",
+    "COLE_GENERO"
+  ],
+  "categories": {
+    "ESTU_GENERO": [
+      "F",
+      "M"
+    ],
+    "ESTU_TIENEETNIA": [
+      "No",
+      "Si"
+    ],
+    "ESTU_DEPTO_RESIDE": [
+      "AMAZONAS",
+      "ANTIOQUIA",
+      "ARAUCA",
+      "ATLANTICO",
+      "BOGOTÁ",
+      "BOLIVAR",
+      "BOYACA",
+      "CALDAS",
+      "CAQUETA",
+      "CASANARE",
+      "CAUCA",
+      "CESAR",
+      "CHOCO",
+      "CORDOBA",
+      "CUNDINAMARCA",
+      "EXTRANJERO",
+      "GUAINIA",
+      "GUAVIARE",
+      "HUILA",
+      "LA GUAJIRA",
+      "MAGDALENA",
+      "META",
+      "NARIÑO",
+      "NORTE SANTANDER",
+      "PUTUMAYO",
+      "QUINDIO",
+      "RISARALDA",
+      "SAN ANDRES",
+      "SANTANDER",
+      "SUCRE",
+      "TOLIMA",
+      "VALLE",
+      "VAUPES",
+      "VICHADA"
+    ],
+    "FAMI_ESTRATOVIVIENDA": [
+      "Estrato 1",
+      "Estrato 2",
+      "Estrato 3",
+      "Estrato 4",
+      "Estrato 5",
+      "Estrato 6",
+      "Sin Estrato"
+    ],
+    "FAMI_PERSONASHOGAR": [
+      "1 a 2",
+      "3 a 4",
+      "5 a 6",
+      "7 a 8",
+      "9 o más"
+    ],
+    "FAMI_CUARTOSHOGAR": [
+      "Cinco",
+      "Cuatro",
+      "Dos",
+      "Seis o mas",
+      "Tres",
+      "Uno"
+    ],
+    "FAMI_EDUCACIONPADRE": [
+      "Educación profesional completa",
+      "Educación profesional incompleta",
+      "Ninguno",
+      "No Aplica",
+      "No sabe",
+      "Postgrado",
+      "Primaria completa",
+      "Primaria incompleta",
+      "Secundaria (Bachillerato) completa",
+      "Secundaria (Bachillerato) incompleta",
+      "Técnica o tecnológica completa",
+      "Técnica o tecnológica incompleta"
+    ],
+    "FAMI_EDUCACIONMADRE": [
+      "Educación profesional completa",
+      "Educación profesional incompleta",
+      "Ninguno",
+      "No Aplica",
+      "No sabe",
+      "Postgrado",
+      "Primaria completa",
+      "Primaria incompleta",
+      "Secundaria (Bachillerato) completa",
+      "Secundaria (Bachillerato) incompleta",
+      "Técnica o tecnológica completa",
+      "Técnica o tecnológica incompleta"
+    ],
+    "FAMI_TRABAJOLABORPADRE": [
+      "Es agricultor, pesquero o jornalero",
+      "Es dueño de un negocio grande, tiene un cargo de nivel directivo o gerencial",
+      "Es dueño de un negocio pequeño (tiene pocos empleados o no tiene, por ejemplo tienda, papelería, etc",
+      "Es operario de máquinas o conduce vehículos (taxita, chofer)",
+      "Es vendedor o trabaja en atención al público",
+      "No sabe",
+      "Pensionado",
+      "Tiene un trabajo de tipo auxiliar administrativo (por ejemplo, secretario o asistente)",
+      "Trabaja como personal de limpieza, mantenimiento, seguridad o construcción",
+      "Trabaja como profesional (por ejemplo médico, abogado, ingeniero)",
+      "Trabaja en el hogar, no trabaja o estudia",
+      "Trabaja por cuenta propia (por ejemplo plomero, electricista)"
+    ],
+    "FAMI_TRABAJOLABORMADRE": [
+      "Es agricultor, pesquero o jornalero",
+      "Es dueño de un negocio grande, tiene un cargo de nivel directivo o gerencial",
+      "Es dueño de un negocio pequeño (tiene pocos empleados o no tiene, por ejemplo tienda, papelería, etc",
+      "Es operario de máquinas o conduce vehículos (taxita, chofer)",
+      "Es vendedor o trabaja en atención al público",
+      "No sabe",
+      "Pensionado",
+      "Tiene un trabajo de tipo auxiliar administrativo (por ejemplo, secretario o asistente)",
+      "Trabaja como personal de limpieza, mantenimiento, seguridad o construcción",
+      "Trabaja como profesional (por ejemplo médico, abogado, ingeniero)",
+      "Trabaja en el hogar, no trabaja o estudia",
+      "Trabaja por cuenta propia (por ejemplo plomero, electricista)"
+    ],
+    "FAMI_TIENEINTERNET": [
+      "No",
+      "Si"
+    ],
+    "FAMI_TIENECOMPUTADOR": [
+      "No",
+      "Si"
+    ],
+    "FAMI_TIENELAVADORA": [
+      "No",
+      "Si"
+    ],
+    "FAMI_TIENEAUTOMOVIL": [
+      "No",
+      "Si"
+    ],
+    "FAMI_TIENEMOTOCICLETA": [
+      "No",
+      "Si"
+    ],
+    "FAMI_TIENECONSOLAVIDEOJUEGOS": [
+      "No",
+      "Si"
+    ],
+    "FAMI_NUMLIBROS": [
+      "0 A 10 LIBROS",
+      "11 A 25 LIBROS",
+      "26 A 100 LIBROS",
+      "MÁS DE 100 LIBROS"
+    ],
+    "ESTU_DEDICACIONLECTURADIARIA": [
+      "30 minutos o menos",
+      "Entre 1 y 2 horas",
+      "Entre 30 y 60 minutos",
+      "Más de 2 horas",
+      "No leo por entretenimiento"
+    ],
+    "ESTU_DEDICACIONINTERNET": [
+      "30 minutos o menos",
+      "Entre 1 y 3 horas",
+      "Entre 30 y 60 minutos",
+      "Más de 3 horas",
+      "No Navega Internet"
+    ],
+    "ESTU_HORASSEMANATRABAJA": [
+      "0",
+      "Entre 11 y 20 horas",
+      "Entre 21 y 30 horas",
+      "Menos de 10 horas",
+      "Más de 30 horas"
+    ],
+    "COLE_NATURALEZA": [
+      "NO OFICIAL",
+      "OFICIAL"
+    ],
+    "COLE_CALENDARIO": [
+      "A",
+      "B",
+      "OTRO"
+    ],
+    "COLE_BILINGUE": [
+      "N",
+      "S"
+    ],
+    "COLE_CARACTER": [
+      "ACADÉMICO",
+      "NO APLICA",
+      "TÉCNICO",
+      "TÉCNICO/ACADÉMICO"
+    ],
+    "COLE_AREA_UBICACION": [
+      "RURAL",
+      "URBANO"
+    ],
+    "COLE_JORNADA": [
+      "COMPLETA",
+      "MAÑANA",
+      "NOCHE",
+      "SABATINA",
+      "TARDE",
+      "UNICA"
+    ],
+    "COLE_GENERO": [
+      "FEMENINO",
+      "MASCULINO",
+      "MIXTO"
+    ]
+  },
+  "model_sample": 504872,
+  "full_rows": 504872
+}
